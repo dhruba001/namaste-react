@@ -1,18 +1,21 @@
 {
-  "name": "namaste-react",
+  "name": "basics",
   "version": "1.0.0",
-  "description": "react course work",
+  "description": "react coursework",
   "main": "App.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/dhruba001/namaste-react)"
+    "url": "(\"tbd\")"
   },
   "keywords": [
     "react"
   ],
   "author": "dhruba",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
 }
